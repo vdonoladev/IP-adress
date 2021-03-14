@@ -8,7 +8,7 @@ hostname = socket.gethostname()
 IPAddr = socket.gethostbyname(hostname)
 
 # printing hostname
-print("Your Computer Name is:" + hostname)
+print("Your Computer Name is: " + hostname)
 
 # printing IP Address
-print("Your Computer IP Address is:" + IPAddr)
+print("Your Computer IP Address is: " + IPAddr)
